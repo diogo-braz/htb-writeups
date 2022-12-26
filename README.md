@@ -1,2 +1,2 @@
 # htb-writeups
-repo for my write ups
+writeups for hackthebox 
